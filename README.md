@@ -1,7 +1,6 @@
 # 🌲 Telco Customer Churn Prediction with Random Forest
 
 <p align="center">
-  <img src="confusion_matrix.png" width="650" alt="Random Forest Confusion Matrix">
 </p>
 
 ## 📌 Project Overview
